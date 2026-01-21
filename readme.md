@@ -16,7 +16,7 @@ This project is a simple web server built using Node.js and the HTTP module.
 2. Run the server using:
    node server.js
 3. Open browser and visit:
-   http://localhost:3000/home
+   https://task6-nodejs.netlify.app
 
 ## Description
 This project demonstrates basic routing and serving static HTML files using Node.js.
