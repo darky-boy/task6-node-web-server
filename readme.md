@@ -20,3 +20,17 @@ This project is a simple web server built using Node.js and the HTTP module.
 
 ## Description
 This project demonstrates basic routing and serving static HTML files using Node.js.
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### About Page
+![About Page](screenshots/about.png)
+
+### Contact Page
+![Contact Page](screenshots/contact.png)
+
+### 404 Page
+![404 Page](screenshots/404.png)
